@@ -136,6 +136,7 @@ height: 82.5px;
   .banner{
 		flex-direction: column-reverse;
 		height: 80%;
+		width: 100%;
 	}
 	.banner-content{
 		height: 100%;
